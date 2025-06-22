@@ -1,3 +1,4 @@
+
 # Hi there, I'm Palaki Narayan! 👋
 
 ## Python Full-Stack Developer | Building Robust Web Applications with Django & DRF
@@ -8,11 +9,9 @@
 
 I'm a dedicated Python Full-Stack Developer with a passion for crafting efficient and scalable solutions. My expertise lies in designing and implementing robust backend logic using Django and Django REST Framework, coupled with building modern and intuitive web interfaces. I'm always eager to learn new technologies and contribute to innovative projects.
 
-- 🔭 I’m currently working on **[Mention a current project you're excited about, e.g., "expanding my knowledge in cloud deployments with Docker and Kubernetes." or "a new personal project focusing on AI integration."]**
-- 🌱 I’m currently learning **[Mention a new technology or concept, e.g., "advanced DevOps practices" or "a new frontend framework like React/Vue if you're exploring that."]**
-- 👯 I’m looking to collaborate on **[Mention types of projects, e.g., "open-source web applications" or "projects involving Python and AI/ML."]**
-- 💬 Ask me about **Python, Django, REST APIs, or full-stack development!**
-- ⚡ Fun fact: **[Add a short, interesting personal fact. E.g., "I enjoy solving competitive programming challenges in my free time." or "I'm a keen follower of tech trends and future technologies."]**
+-   🔭 I’m currently working on **further developing my cybersecurity tool, focusing on enhancing the SIEM module after completing the ITSM functionalities.**
+-   🌱 I’m currently learning **advanced API design principles and best practices for building robust and scalable microservices.**
+-   💬 Ask me about **Python, Django, REST APIs, or full-stack development!**
 
 ---
 
@@ -37,6 +36,7 @@ Here are some of the technologies I work with:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Tools & Concepts:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,33 +45,48 @@ Here are some of the technologies I work with:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005C9C?style=for-the-badge&logo=api&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-007399?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNNyAxMC42MkwxMC42MiAxNEwxNyAxMC41NkwxNS40MyA5TDExLjIgMTIuOTlMNyAxMC42MloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&labelColor=007399&color=007399) ![CI/CD](https://img.shields.io/badge/CI%2FCD-D32F2F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXZCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc2dnIj4KPHBhdGggZD0iTTExIDUuODlMMTQuMDMgMTIuMDJMOS45NyAxOS4wOEwxNS45NyAxOS40NkwxNS45NyAxNC41TDE4LjA1IDEzLjAxTDE4LjA1IDE5LjQ1TDYgMTkuNDZMOC4wMiAxMy40N0w5LjA0IDExLjkyTDE1LjA1IDExLjkzTDE1LjA1IDE3LjM4TDExIDUuODlZMTEuMDcgOC45OUwxMS4wNiA5LjAwTDE1LjAzIDE1Ljk4TDE0LjA2IDE2Ljk5TDkuOTcgOS45OUwxMS4wNyA4Ljk5WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&labelColor=D32F2F&color=D32F2F) ![Testing](https://img.shields.io/badge/Testing-42B983?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNOC41IDExLjk5TDcuMzMgMTEuMjVMOC41IDEyLjQ5TDExLjg1IDE0LjUzTDE0LjY3IDkuNTJMMTMuNTcgOC43N0wxMS44NSAxMi43N0w4LjUgMTEuOTlaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&labelColor=42B983&color=42B983) ---
+![Agile](https://img.shields.io/badge/Agile-007399?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNNyAxMC42MkwxMC42MiAxNEwxNyAxMC41NkwxNS40MyA5TDExLjIgMTIuOTlMNyAxMC42MloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&labelColor=007399&color=007399)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-D32F2F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExIDUuODlMMTQuMDMgMTIuMDJMOS45NyAxOS4wOEwxNS45NyAxOS40NkwxNS45NyAxNC41TDE4LjA1IDEzLjAxTDE4LjA1IDE5LjQ1TDYgMTkuNDZMOC4wMiAxMy40N0w5LjA0IDExLjkyTDE1LjA1IDExLjkzTDE1LjA1IDE3LjM4TDExIDUuODlZMTEuMDcgOC45OUwxMS4wNiA5LjAwTDE1LjAzIDE1Ljk4TDE0LjA2IDE2Ljk5TDkuOTcgOS45OUwxMS4wNyA4.5L11.06 9.00L15.03 15.98L14.06 16.99L9.97 9.99L11.07 8.99Z" fill="white"/>
+![Testing](https://img.shields.io/badge/Testing-42B983?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNOC41IDExLjk5TDcuMzMgMTEuMjVMOC41IDEyLjQ5TDExLjU4IDE0LjU2TDE0LjY3IDkuNTJMMTMuNTcgOC43N0wxMS41OCA5LjUzTDguNSAxMS45OVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&labelColor=42B983&color=42B983)
+
+---
 
 ### My Projects
 
 Here are a few highlights from my portfolio:
 
--   **TALKWEB**
+-   **Voice Assistant**
     -   Developed a browser-based voice assistant using speech recognition and Python automation logic.
     -   Enabled natural voice command execution for OS-level tasks and real-time responses.
-    -   **[Link to your TALKWEB repository if public]**
+    -   [GitHub Repository: Voice Assistant](https://github.com/palakiNarayan/voice_assistant)
 
 -   **Chat Boot**
     -   Built a responsive, full-stack real-time messaging app using Django views, AJAX, and Bootstrap.
     -   Implemented user authentication, session handling, and secure chat channels.
-    -   **[Link to your Chat Boot repository if public]**
+    -   *(This project is not publicly available on GitHub.)*
 
 -   **Cybersecurity Platform (Internship Project at Cyberbreins)**
     -   Built a Django-based cybersecurity platform with SIEM + ITSM modules.
     -   Developed a YAML-based rule engine, log parser, and REST APIs for real-time incident detection.
     -   Created dashboards with alerting and access control based on user roles.
-    -   **[Link to repository if public/allowable to showcase, or explain if it's private]**
+    -   *(This is a proprietary client project and not publicly available.)*
 
 ---
 
 ### GitHub Stats
 
-![Palaki Narayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**YOUR_GITHUB_USERNAME**&show_icons=true&theme=dark)
+![Palaki Narayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palakiNarayan&show_icons=true&theme=dark)
+
+---
+
+### Multitasking in Action!
+
+As a full-stack developer, I often juggle multiple tasks and technologies. Here's a little visual to convey that!
+
+![Multitasking GIF Placeholder](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlwMXgwaG56djB0cjRscXZpcnk3ajNzbTlwNm52cmR3bW9wNjQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCCDQYp2ntN8c/giphy.gif)
+
+*Tip: You can replace the GIF link above with any other GIF you prefer from platforms like Giphy, just copy the GIF's image URL!*
+
 ---
 
 ### Connect with Me
@@ -80,3 +95,13 @@ Here are a few highlights from my portfolio:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakinarayan1234@gmail.com)
 
 ---
+
+**How to use this code:**
+
+1.  **Go to your GitHub profile** (`https://github.com/palakiNarayan`).
+2.  Make sure you have a public repository named exactly `palakiNarayan` (your GitHub username). If not, create one and initialize it with a README.
+3.  **Edit the `README.md` file** in that specific `palakiNarayan` repository.
+4.  **Copy and paste the entire code block above** into your `README.md` file, replacing any existing content.
+5.  **Commit your changes.**
+
+Your customized profile README should now be visible on your main GitHub page!
