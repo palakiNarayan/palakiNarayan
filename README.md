@@ -1,4 +1,3 @@
-
 # Hi there, I'm Palaki Narayan! 👋
 
 ## Python Full-Stack Developer | Building Robust Web Applications with Django & DRF
