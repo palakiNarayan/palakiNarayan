@@ -1,4 +1,4 @@
-## Hi there, I'm Palaki Narayan! 👋
+# Hi there, I'm Palaki Narayan! 👋
 
 ## Python Full-Stack Developer | Building Robust Web Applications with Django & DRF
 
@@ -45,8 +45,8 @@ Here are some of the technologies I work with:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005C9C?style=for-the-badge&logo=api&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-007399?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNNyAxMC42MkwxMC42MiAxNEwxNyAxMC41NkwxNS40MyA5TDExLjIgMTIuOTlMNyAxMC42MloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&labelColor=007399&color=007399)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-D32F2F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExIDUuODlMMTQuMDMgMTIuMDJMOS45NyAxOS4wOEwxNS45NyAxOS40NkwxNS45NyAxNC41TDE4LjA1IDEzLjAxTDE4LjA1IDE5LjQ1TDYgMTkuNDZMOC4wMiAxMy40N0w5LjA0IDExLjkyTDE1LjA1IDExLjkyTDE1LjA1IDE3LjM4TDExIDUuODlZMTEuMDcgOC45OUwxMS4wNiA5LjAwTDE1LjAzIDE1Ljk4TDE0LjA2IDE2Ljk5TDkuOTcgOS45OUwxMS4wNyA4.5L11.06 9.00L15.03 15.98L14.06 16.99L9.97 9.99L11.07 8.99Z" fill="white"/>
-![Testing](https://img.shields.io/badge/Testing-42B983?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNOC41IDExLjk5TDcuMzMgMTEuMjVMOC41IDEyLjQ5TDEx.58 14.56L14.67 9.52L13.57 8.77L11.58 9.53L8.5 11.99Z" fill="white"/>
+![CI/CD](https://img.shields.io/badge/CI%2FCD-D32F2F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExIDUuODlMMTQuMDMgMTIuMDJMOS45NyAxOS4wOEwxNS45NyAxOS40NkwxNS45NyAxNC41TDE4LjA1IDEzLjAxTDE4LjA1IDE5LjQ1TDYgMTkuNDZMOC4wMiAxMy40N0w5LjA0IDExLjkyTDE1LjA1IDExLjkzTDE1LjA1IDE3LjM4TDExIDUuODlZMTEuMDcgOC45OUwxMS4wNiA5LjAwTDE1LjAzIDE1LjY5TDE0LjA2IDE2Ljk5TDkuOTcgOS45OUwxMS4wNyA4Ljk5WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&labelColor=D32F2F&color=D32F2F)
+![Testing](https://img.shields.io/badge/Testing-42B983?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyQzIgMTcuNTMgNi40NyAyMiAxMiAyMkMxNy41MyAyMiAyMiAxNy41MyAyMiAxMkMyMiA2LjQ3IDE3LjUzIDIgMTIgMlpNOC41IDExLjk5TDcuMzMgMTEuMjVMOC41IDEyLjQ5TDExLjg1IDE0LjUzTDE0LjY3IDkuNTJMMTMuNTcgOC43N0wxMS44NSAxMi43N0w4LjUgMTEuOTlaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=&labelColor=42B983&color=42B983)
 
 ---
 
@@ -92,17 +92,3 @@ As a full-stack developer, I often juggle multiple tasks and technologies. Here'
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakinarayan1234@gmail.com)
 
 ---
-
-**How to use this code:**
-
-1.  **Go to your GitHub profile** (`https://github.com/palakiNarayan`).
-2.  Make sure you have a public repository named exactly `palakiNarayan` (your GitHub username). If not, create one and initialize it with a README.
-3.  **Edit the `README.md` file** in that specific `palakiNarayan` repository.
-4.  **Copy and paste the entire code block above** into your `README.md` file, replacing any existing content.
-5.  **Commit your changes.**
-
-Your customized profile README should now be visible on your main GitHub page!
-4.  **Copy and paste the entire code block above** into your `README.md` file, replacing any existing content.
-5.  **Commit your changes.**
-
-Your customized profile README should now be visible on your main GitHub page!
